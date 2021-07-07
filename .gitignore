@@ -1,0 +1,4 @@
+/node_modules/
+/src/.log/
+/.log/
+/.dir-locals.el
